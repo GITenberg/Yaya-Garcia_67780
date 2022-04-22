@@ -1,5 +1,8 @@
 _repo: Yaya-Garcia_67780
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67780-h/images/yaya_cover.jpg
 creator:
   author:
     agent_name: Machado de Assis
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Machado_de_Assis
     - https://pt.wikipedia.org/wiki/Machado_de_Assis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67780#Yaya-Garcia
 gutenberg_issued: '2022-04-05'
 identifiers:
   gutenberg: '67780'
